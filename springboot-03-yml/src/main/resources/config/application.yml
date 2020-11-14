@@ -1,0 +1,20 @@
+#平时我们一般都使用application.yml文件作为配置文件，而不是application.properties文件
+yml:
+  str: 字符串可以不加引号
+  specialStr: "双引号直接输出\n特殊字符"
+  specialStr2: '单引号可以转义\n特殊字符'
+  flag: false
+  num: 666
+  dnum: 88.88
+  birth: 2020/11/10 11:21:23
+  list:
+    - one
+    - two
+    - three
+  set: [1,2,2,3]
+  map: {k1: v1, k2: v2}
+  user:
+     name: liwenli
+     age: 21
+     sex: male
+     addr: 湖南省郴州市
