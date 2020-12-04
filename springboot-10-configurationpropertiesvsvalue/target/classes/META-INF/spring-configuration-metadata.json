@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.liwenli.model.ConfigurationPropertiesProperties",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties"
+    },
+    {
+      "name": "person.school",
+      "type": "com.liwenli.model.ConfigurationPropertiesProperties$School",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties",
+      "sourceMethod": "getSchool()"
+    },
+    {
+      "name": "person.school",
+      "type": "com.liwenli.model.ConfigurationPropertiesProperties$School",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties$School"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.email",
+      "type": "java.lang.String",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties"
+    },
+    {
+      "name": "person.my-name",
+      "type": "java.lang.String",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties"
+    },
+    {
+      "name": "person.school.school-name",
+      "type": "java.lang.String",
+      "sourceType": "com.liwenli.model.ConfigurationPropertiesProperties$School"
+    }
+  ],
+  "hints": []
+}

@@ -14,6 +14,13 @@
         <module>springboot-03-yml</module>
         <module>springboot-04-propbind</module>
         <module>springboot-05-consbind</module>
+        <module>springboot-06-test</module>
+        <module>springboot-07-thirdpartyonfiguration</module>
+        <module>springboot-08-relaxedbind</module>
+        <module>springboot-09-configurationpropertiesvalidation</module>
+        <module>springboot-10-configurationpropertiesvsvalue</module>
+        <module>springboot-11-profile</module>
+        <module>springboot-12-profile2</module>
     </modules>
 
 

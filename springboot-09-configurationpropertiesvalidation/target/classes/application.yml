@@ -1,0 +1,10 @@
+#如果没有出现提示，那么可以使用CTRL+F9
+
+person:
+  age: 34
+  email: liwenli@liwenli.com
+#  要想让name这个属性的值为null,则不需要写出name这个属性。
+  name: liwenli
+#  将内部类的scname属性设置为null
+#  school:
+#    scname: qqhr

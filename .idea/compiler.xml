@@ -8,10 +8,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-04-propbind" />
+        <module name="springboot-09-configurationpropertiesvalidation" />
+        <module name="springboot-10-configurationpropertiesvsvalue" />
+        <module name="springboot-07-thirdpartyonfiguration" />
+        <module name="springboot-05-consbind" />
         <module name="springboot-02-config" />
         <module name="springboot-01-helloworld" />
-        <module name="springboot-05-consbind" />
+        <module name="springboot-06-test" />
+        <module name="springboot-08-relaxedbind" />
+        <module name="springboot-12-profile2" />
         <module name="yml" />
+        <module name="springboot-11-profile" />
         <module name="springboot-03-yml" />
       </profile>
     </annotationProcessing>
@@ -26,6 +33,13 @@
       <module name="springboot-03-yml" options="-parameters" />
       <module name="springboot-04-propbind" options="-parameters" />
       <module name="springboot-05-consbind" options="-parameters" />
+      <module name="springboot-06-test" options="-parameters" />
+      <module name="springboot-07-thirdpartyonfiguration" options="-parameters" />
+      <module name="springboot-08-relaxedbind" options="-parameters" />
+      <module name="springboot-09-configurationpropertiesvalidation" options="-parameters" />
+      <module name="springboot-10-configurationpropertiesvsvalue" options="-parameters" />
+      <module name="springboot-11-profile" options="-parameters" />
+      <module name="springboot-12-profile2" options="-parameters" />
       <module name="springboot-study" options="-parameters" />
       <module name="yml" options="-parameters" />
     </option>
