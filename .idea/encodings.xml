@@ -13,6 +13,11 @@
     <file url="file://$PROJECT_DIR$/springboot-10-configurationpropertiesvsvalue/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-11-profile/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-12-profile2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-spi/alipay-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-spi/main-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-spi/service-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-spi/wechat-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-14-src/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

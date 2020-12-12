@@ -7,19 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-04-propbind" />
-        <module name="springboot-09-configurationpropertiesvalidation" />
-        <module name="springboot-10-configurationpropertiesvsvalue" />
-        <module name="springboot-07-thirdpartyonfiguration" />
-        <module name="springboot-05-consbind" />
         <module name="springboot-02-config" />
-        <module name="springboot-01-helloworld" />
+        <module name="springboot-05-consbind" />
         <module name="springboot-06-test" />
-        <module name="springboot-08-relaxedbind" />
-        <module name="springboot-12-profile2" />
-        <module name="yml" />
+        <module name="springboot-04-propbind" />
+        <module name="main-test" />
+        <module name="service-common" />
         <module name="springboot-11-profile" />
+        <module name="springboot-12-profile2" />
+        <module name="springboot-09-configurationpropertiesvalidation" />
         <module name="springboot-03-yml" />
+        <module name="springboot-14-src" />
+        <module name="springboot-10-configurationpropertiesvsvalue" />
+        <module name="yml" />
+        <module name="wechat-payment" />
+        <module name="springboot-01-helloworld" />
+        <module name="alipay-payment" />
+        <module name="springboot-07-thirdpartyonfiguration" />
+        <module name="springboot-08-relaxedbind" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +33,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alipay-payment" options="-parameters" />
+      <module name="main-test" options="-parameters" />
+      <module name="service-common" options="-parameters" />
       <module name="springboot-01-helloworld" options="-parameters" />
       <module name="springboot-02-config" options="-parameters" />
       <module name="springboot-03-yml" options="-parameters" />
@@ -40,7 +48,10 @@
       <module name="springboot-10-configurationpropertiesvsvalue" options="-parameters" />
       <module name="springboot-11-profile" options="-parameters" />
       <module name="springboot-12-profile2" options="-parameters" />
+      <module name="springboot-13-spi" options="-parameters" />
+      <module name="springboot-14-src" options="-parameters" />
       <module name="springboot-study" options="-parameters" />
+      <module name="wechat-payment" options="-parameters" />
       <module name="yml" options="-parameters" />
     </option>
   </component>

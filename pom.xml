@@ -21,6 +21,8 @@
         <module>springboot-10-configurationpropertiesvsvalue</module>
         <module>springboot-11-profile</module>
         <module>springboot-12-profile2</module>
+        <module>springboot-13-spi</module>
+        <module>springboot-14-src</module>
     </modules>
 
 
