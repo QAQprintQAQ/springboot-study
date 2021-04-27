@@ -1,9 +1,0 @@
-acme:
-  enabled: true
-  remote-address: 192.168.0.109
-  security:
-    username: liwenli
-    password: liwenli
-    roles:
-      - liwenli
-      - wangshuwei

@@ -8,23 +8,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-02-config" />
+        <module name="springboot-08-relaxedbind" />
         <module name="springboot-05-consbind" />
+        <module name="springboot-01-helloworld" />
         <module name="springboot-06-test" />
         <module name="springboot-04-propbind" />
         <module name="main-test" />
         <module name="service-common" />
         <module name="springboot-11-profile" />
-        <module name="springboot-12-profile2" />
         <module name="springboot-09-configurationpropertiesvalidation" />
         <module name="springboot-03-yml" />
         <module name="springboot-14-src" />
         <module name="springboot-10-configurationpropertiesvsvalue" />
         <module name="yml" />
-        <module name="wechat-payment" />
-        <module name="springboot-01-helloworld" />
+        <module name="springboot-12-profile2" />
         <module name="alipay-payment" />
         <module name="springboot-07-thirdpartyonfiguration" />
-        <module name="springboot-08-relaxedbind" />
+        <module name="wechat-payment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
